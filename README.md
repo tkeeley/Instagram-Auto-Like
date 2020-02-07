@@ -1,4 +1,4 @@
-# Instagram-Auto-Like
+# Instagram-Auto-Like Chrome Extension
 ## Chrome Extension to Auto like posts on Instagram
 
 ### Download this rep
