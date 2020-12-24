@@ -4,7 +4,7 @@
 ### Download this rep
 ### Visit chrome://extensions and click "load unpacked"
 
-### Visit your Instagram page on a desktop and seeach for your hashtag.
+### Visit your Instagram page on a desktop and search for your hashtag.
 ### Open the first post for the hash tag searched and click the extension icon. 
 ### This will auto like and click to the next post until you close the page.
 
